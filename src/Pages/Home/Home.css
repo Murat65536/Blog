@@ -1,0 +1,17 @@
+.home {
+    background-color: #000;
+    width: 100vw;
+    height: 100vh;
+}
+
+.title {
+    font-size: 4em;
+    text-align: center;
+    color: #fff;
+}
+
+.subtitle {
+    font-size: 2em;
+    text-align: center;
+    color: #fff;
+}
